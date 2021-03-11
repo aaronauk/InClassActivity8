@@ -1,4 +1,4 @@
-# Calcultaor app with basic methods
+# Calculator app with basic methods
 
 
 def add(a, b):
@@ -7,3 +7,7 @@ def add(a, b):
 
 def subtract(a, b):
     return a - b
+
+
+def multiply(a, b):
+    return a * b
